@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/hanjos/.virtualenvs/ms-rolnando/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
